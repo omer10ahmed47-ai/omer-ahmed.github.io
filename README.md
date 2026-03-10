@@ -1,2 +1,2 @@
-# omer.github.io.html
+# omer.github.io
 idek
